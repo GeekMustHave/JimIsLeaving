@@ -1,0 +1,272 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="cover">
+    <div class="navbar">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          <a class="navbar-brand" onclick="showVideo();" style="cursor: pointer; cursor: hand;"><span>43</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active">
+              <a id="btnToTheParty" href="#theParty">The Party</a>
+            </li>
+            <li>
+              <a id="btnToLeaveMessage" href="#leaveMessage">Leave Jim a Message</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="cover-image" style="background-image : url('https://unsplash.imgix.net/photo-1422222948315-28aadb7a2cb8?w=1024&amp;q=50&amp;fm=jpg&amp;s=cfeadbd7a991e58b553bee29a7eeca55')"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h1 class="text-primary">Jim is Leaving</h1>
+          <p class="text-primary">He decided to take the road less traveled</p>
+          <br>
+          <br>
+          <a id="btnOverview" class="btn btn-lg btn-primary" href="#jeremyOverview">Click me</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section" id="jeremyOverview">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <img src="images/jim01.jpg" class="img-responsive">
+        </div>
+        <div class="col-md-6">
+          <h1 class="text-primary">Jim McEvoy</h1>
+          <h3>Problem solver</h3>
+          <p>Jim creates problems then he solves them. &nbsp;He gets paid twice. &nbsp;Gotta love it. &nbsp;</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section" id="theParty">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1 class="text-primary">The Party!</h1>
+          <h3>
+            <!-- mobileNavFunction helps iPhone, iPad users get the map properly -->
+            <a style="cursor: pointer;" onclick="mobileNavFunc()" target="_blank">Lansing Brewing Company,</a>
+            <br>518 E. Shiawasee Street, Lansing, MI
+            <br>
+            <span type="date">Friday March 31st &nbsp;- &nbsp;</span>6pm - whenever</h3>
+          <p>One of the first breweries in Michigan’s Capitol city, the Lansing Brewing Company supplied craft beer to artisans,
+            laborers and tradesmen as they built our city over a century ago. Opened a year after Ransom E. Olds’ historic
+            automobile ride down a city street in 1897, the Lansing Brewing Company welcomed its first customers.&nbsp;
+            <br>
+            <br>Jim's farwell party will be a festive event including an open bar from 6pm to 7:30pm and appetizers.
+            <br>
+            <br>PLEASE: Register for the party, using the form below. Let us know if you’re coming and how many guests, this
+            will help us plan for right amount of beverages and appetizers.
+            <br>
+            <br>
+            <br>
+          </p>
+        </div>
+        <div class="col-md-6 text-center">
+          <!--<div id="map_canvas" style="width:100%; height:70%; max-height:80%;"></div> -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2930.441522144274!2d-84.5479647!3d42.73671!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822ea74fe67af93%3A0x16107c8d73f8bb30!2sLansing+Brewing+Company!5e0!3m2!1sen!2sus!4v1490194255898"
+            width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section" id="registerForm">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center text-primary">Register to attend the Party!</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <form role="form" id="guestForm">
+            <div class="form-group" id="fullName">
+              <label class=" control-label" for="guestName">Your name</label>
+              <input required="" class="form-control" id="guestName" placeholder="Enter your full name" type="text">
+            </div>
+            <div class="form-group">
+              <label class="control-label" for="guestEmail" id="emailAddress">E-Mail Address</label>
+              <input required="" class="form-control" id="guestEmail" placeholder="Your e-mail address, so we can send you updates" type="email">
+            </div>
+            <div class="form-group">
+              <label class="control-label" for="guestTotal">Number of guest attending, including yourself</label>
+              <input required="" class="form-control" min="1" id="guestTotal" placeholder="How many people attending" type="number">
+            </div>
+            <button style="display:none;" type="submit"></button>
+          </form>
+          <button id="btnSubmitAttendance" class="btn btn-primary" onclick="submitGuest();">Submit</button>
+          <label style="color:green;font-style: italic" id="lblGuest"></label>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section" id="attendList">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center text-danger">Who is going to the party?<br>
+          How many are going to the party?</h1>
+          <h1 class="text-center text-primary" ><span id="howMany"></span>47 folks so far</h1>
+          <!-- <div class="col-md-12" id="grandTotal" </div> -->
+          <h1 class="text-center text-danger">Register above, it's not too late</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="container" id="attendeeGrid">
+            <div class="row">
+              <div class="col-md-12">
+                <ul id="ulAttendingList" class="list-group"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="leaveMessage">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center text-primary">Leave Jim a message!</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <form role="form" id="messageForm">
+            <div class="form-group" id="messageName">
+              <label class="control-label" for="guestNameMsg">Your name</label>
+              <input required="" class="form-control" id="guestNameMsg" placeholder="Enter your full name" type="text">
+            </div>
+            <div class="form-group" draggable="true">
+              <label class="control-label" for="guestMessage">Meassege for Jim (All message will be displayed below)</label>
+              <textarea required="" id="guestMessage" class="form-control" rows="4" placeholder="Leave a public message to Jim"></textarea>
+              <!--<input class="form-control" id="guestMessage" placeholder="Leave
+                  a public message to Jim" type="text"> -->
+            </div>
+            <button style="display:none;" type="submit"></button>
+          </form>
+          <button id="btnSubmitMessage" class="btn btn-primary" onclick="submitMessage();">Submit</button>&nbsp;&nbsp;&nbsp;&nbsp;
+          <label style="color:green;font-style: italic" id="lblMessage"></label>
+        </div>
+      </div>
+
+
+      <!--- display messages -->
+      <div class="section" id="messageList">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="container" id="messageGrid">
+              <div class="row">
+                <div class="col-md-12">
+                  <ul id="ulMessageList" class="list-group"></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+
+
+  <div class="section" id="hostsList">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center text-primary">Hosts</h1>
+          <p class="text-center">John HR Schuster and Monty Bieber&nbsp;</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal -->
+  <div class="modal fade center" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4 class="modal-title text-center">'43'</h4>
+        </div>
+        <div class="modal-body">
+          <!-- old: <iframe width="100%" height="70%" frameborder="0" allowfullscreen
+              src="http://www.youtube.com/embed/fqa48tqNOj8?html5=1"></iframe>  -->
+          <!--- Autoplay probably not a good idea, video plays without the modal
+              opening -->
+          <video src="media/43.mp4" height="70%" width="100%" controls=""></video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="section section-primary" id="footerPane">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <h1>Site provided by&nbsp;
+            <br>Phoenix Learning Labs</h1>
+          <p>Developers: &nbsp;John HR Schuster</p>
+        </div>
+        <div class="col-sm-6">
+          <p class="text-info text-right">
+            <br>
+            <br>
+          </p>
+          <div class="row">
+            <div class="col-md-12 hidden-lg hidden-md hidden-sm text-left">
+              <a href="#"><i class="fa fa-3x fa-fw fa-instagram text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 hidden-xs text-right">
+              <a href="https://twitter.com/geekmusthave"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a>
+              <a href="https://twitter.com/geekmusthave"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a>
+              <a href="https://github.com/geekmusthave"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+              <!-- Added YouTube channel because I got one now -->
+              <a href="https://www.youtube.com/channel/UChNSlqKgG8_l0h0C8vRLvbA"><i class="fa fa-3x fa-fw fa-youtube text-inverse"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Scrolling Nav JavaScript -->
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/index.js"></script>
+  <script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
+
+
+
+</body>
+
+</html>

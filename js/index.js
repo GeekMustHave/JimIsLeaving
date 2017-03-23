@@ -4,23 +4,23 @@
 * Comments: For smooth scrolling JSON posts for submitting gest requests and messages
 *******************************************/
 //jQuery for page smooth scrolling feature - requires jQuery Easing plugin
-$(function() {
+$(function () {
 	PreLoadValues();
-	$('#btnOverview').bind('click', function(event) {
+	$('#btnOverview').bind('click', function (event) {
 		var $anchor = $(this);
 		$('html, body').stop().animate({
 			scrollTop: $($anchor.attr('href')).offset().top
 		}, 1500, 'easeInOutExpo');
 		event.preventDefault();
 	});
-	$('#btnToTheParty').bind('click', function(event) {
+	$('#btnToTheParty').bind('click', function (event) {
 		var $anchor = $(this);
 		$('html, body').stop().animate({
 			scrollTop: $($anchor.attr('href')).offset().top
 		}, 1500, 'easeInOutExpo');
 		event.preventDefault();
 	});
-	$('#btnToLeaveMessage').bind('click', function(event) {
+	$('#btnToLeaveMessage').bind('click', function (event) {
 		var $anchor = $(this);
 		$('html, body').stop().animate({
 			scrollTop: $($anchor.attr('href')).offset().top
@@ -32,46 +32,50 @@ $(function() {
 
 // -- Preload reads the 2 JSON files with guests and messages
 //    Reads each row in document, builds a HTML string with list of the guests and messages
-function PreLoadValues(){
+function PreLoadValues() {
+	var grandTotal = 0;
 	// -- List of guests
-	$.getJSON("server/guests.json", function(json) {
+	$.getJSON("server/guests.json", function (json) {
 		$("#ulAttendingList").empty();
-		$.each(json, function(idx, obj){
-			$('#ulAttendingList').append('<li class="list-group-item" >'+ obj.name + ', (' + obj.totalguests + ')' +'</li>');
+		console.log("poop");
+		$.each(json, function (idx, obj) {
+			$('#ulAttendingList').append('<li class="list-group-item" >' + obj.name + ', (' + obj.totalguests + ')' + '</li>');
+			// granTotal = grandTotal + parseInt(obj.totalguests);
+			console.log("grand total" + grandTotal);
 		});
 	});
-    // -- List of messages
-	$.getJSON("server/messages.json", function(json) {
+	// -- List of messages
+	$.getJSON("server/messages.json", function (json) {
 		$("#ulMessageList").empty();
-		$.each(json, function(idx, obj){
-			$('#ulMessageList').append('<li class="list-group-item" > <b>Message from:</b> '+ obj.name + ' &nbsp; &nbsp; &nbsp; <b>On:</b>&nbsp; ' + obj.messagedate.substring(0, 16) + ' <br />' + obj.message + '</li>');
+		$.each(json, function (idx, obj) {
+			$('#ulMessageList').append('<li class="list-group-item" > <b>Message from:</b> ' + obj.name + ' &nbsp; &nbsp; &nbsp; <b>On:</b>&nbsp; ' + obj.messagedate.substring(0, 16) + ' <br />' + obj.message + '</li>');
 		});
 	});
 	// -- Update the display for grandTotal
 
+	$("#howMany").text(grandTotal);
 }
 
-function mobileNavFunc(){
-    // If it's an iPhone..
-    if( (navigator.platform.indexOf("iPhone") != -1)
-        || (navigator.platform.indexOf("iPod") != -1)
-        || (navigator.platform.indexOf("iPad") != -1))
+function mobileNavFunc() {
+	// If it's an iPhone..
+	if ((navigator.platform.indexOf("iPhone") != -1)
+		|| (navigator.platform.indexOf("iPod") != -1)
+		|| (navigator.platform.indexOf("iPad") != -1))
 		// Change address to Lansing Brewing Company
-         window.open("maps://maps.google.com/maps?q=518 E. Shiawasee Street, Lansing, MI ");
-    else
-         window.open("http://maps.google.com/maps?q=518 E. Shiawasee Street, Lansing, MI ");
+		window.open("maps://maps.google.com/maps?q=518 E. Shiawasee Street, Lansing, MI ");
+	else
+		window.open("http://maps.google.com/maps?q=518 E. Shiawasee Street, Lansing, MI ");
 }
 
 
 // --- Opens the model window and olays the video
-function showVideo(){
-	$('#myModal').modal('show'); 
+function showVideo() {
+	$('#myModal').modal('show');
 	return true;
 }
 
 
-function submitGuest()
-{
+function submitGuest() {
 	var guestName = document.getElementById("guestName").value;
 	var guestEmail = document.getElementById("guestEmail").value;
 	var guestTotalCount = document.getElementById("guestTotal").value;
@@ -87,19 +91,19 @@ function submitGuest()
 		// this will just cause the browser to display the native HTML5 error messages.
 		$myForm.find(':submit').click();
 	}
-	else{
+	else {
 		var object = {
 			name: guestName,
 			email: guestEmail,
-			totalguests : guestTotalCount
+			totalguests: guestTotalCount
 		}
 		//var params = JSON.stringify(object);
 
 		$.ajax({
 			type: 'POST',
-			data: {params:object},
+			data: { params: object },
 			url: 'server/submitGuest.php',
-			success: function(data){
+			success: function (data) {
 				// do something on success
 				PreLoadValues();
 				document.getElementById("guestName").value = '';
@@ -110,8 +114,7 @@ function submitGuest()
 		});
 	}
 }
-function submitMessage()
-{
+function submitMessage() {
 	var guestNameMsg = document.getElementById("guestNameMsg").value;
 	var guestMessage = document.getElementById("guestMessage").value;
 	var guestMessageDate = new Date();
@@ -122,20 +125,20 @@ function submitMessage()
 		// this will just cause the browser to display the native HTML5 error messages.
 		$myForm.find(':submit').click();
 	}
-	else{
+	else {
 
 		var object = {
 			name: guestNameMsg,
 			message: guestMessage,
-			messagedate : guestMessageDate
+			messagedate: guestMessageDate
 		}
 		var paramse = JSON.stringify(object);
 
 		$.ajax({
 			type: 'POST',
-			data: {params:object},
+			data: { params: object },
 			url: 'server/submitMessage.php',
-			success: function(data){
+			success: function (data) {
 				// do something on success
 				PreLoadValues();
 				document.getElementById("guestNameMsg").value = '';

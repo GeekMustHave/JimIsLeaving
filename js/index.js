@@ -40,8 +40,10 @@ function PreLoadValues() {
 		console.log("poop");
 		$.each(json, function (idx, obj) {
 			$('#ulAttendingList').append('<li class="list-group-item" >' + obj.name + ', (' + obj.totalguests + ')' + '</li>');
-			// granTotal = grandTotal + parseInt(obj.totalguests);
-			console.log("grand total" + grandTotal);
+			// --- parseInt change the text into an integer
+			grandTotal = grandTotal + parseInt(obj.totalguests);
+			console.log("totalGuests:" + obj.totalguests);
+			$("#howMany").text(grandTotal);
 		});
 	});
 	// -- List of messages
@@ -51,9 +53,6 @@ function PreLoadValues() {
 			$('#ulMessageList').append('<li class="list-group-item" > <b>Message from:</b> ' + obj.name + ' &nbsp; &nbsp; &nbsp; <b>On:</b>&nbsp; ' + obj.messagedate.substring(0, 16) + ' <br />' + obj.message + '</li>');
 		});
 	});
-	// -- Update the display for grandTotal
-
-	$("#howMany").text(grandTotal);
 }
 
 function mobileNavFunc() {

@@ -1,6 +1,6 @@
-= JeremyIsLeaving Web Site
+= JimIsLeaving Web Site
 John HR Schuster <John.Schuster@PhoenixWorkGroup.com>
-V2.1b,01/07/2016:Just A web site
+V2.1b,03/23/2017:Just A web site
 
 This is just a simple web site to help manage a party for one of the Teradata DBA's who will be leaving us soon.
 

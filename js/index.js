@@ -67,7 +67,7 @@ function mobileNavFunc() {
 }
 
 
-// --- Opens the model window and olays the video
+// --- Opens the model window and plays the video
 function showVideo() {
 	$('#myModal').modal('show');
 	return true;

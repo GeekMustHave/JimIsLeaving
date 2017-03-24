@@ -73,6 +73,12 @@ function showVideo() {
 	return true;
 }
 
+// --- Open the model window for the Jim Salutes Easter egg
+function showSalute(){
+	$('#jimSalutes').modal('show');
+	return true;
+}
+
 
 function submitGuest() {
 	var guestName = document.getElementById("guestName").value;

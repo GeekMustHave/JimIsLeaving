@@ -1,0 +1,432 @@
+[22-Mar-2017 09:14:53 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 09:14:53 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[22-Mar-2017 09:14:53 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 09:14:53 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[22-Mar-2017 10:58:01 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 10:58:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[22-Mar-2017 10:58:01 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 10:58:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[22-Mar-2017 12:11:04 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 12:11:04 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[22-Mar-2017 12:11:04 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 12:11:04 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[22-Mar-2017 15:53:40 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 15:53:40 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[22-Mar-2017 15:53:40 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 15:53:40 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 08:00:26 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 08:00:27 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 08:00:27 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 08:00:27 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 12:51:11 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 12:51:11 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 12:51:11 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 12:51:11 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 12:52:51 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 12:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 12:52:51 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 12:52:51 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:13:11 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:13:11 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:13:11 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:13:11 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:17:42 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:17:42 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:17:42 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:17:42 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:18:01 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:18:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:18:01 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:18:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:18:17 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:18:17 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:18:17 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:18:17 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:19:01 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:19:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:19:01 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:19:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:35:20 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:35:20 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:35:20 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:35:20 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:35:31 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:35:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:35:31 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:35:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:37:17 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:37:17 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:37:17 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:37:17 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:39:09 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:09 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:39:09 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:09 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:39:55 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:55 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:39:55 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:55 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:39:58 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:58 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:39:58 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:39:58 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:40:40 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:40:40 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:40:40 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:40:40 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:41:30 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:41:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:41:30 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:41:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:49:25 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:49:25 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:49:25 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:49:25 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:51:55 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:51:55 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:51:55 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:51:55 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:59:28 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:59:28 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:59:28 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:59:28 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 14:59:43 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:59:43 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 14:59:43 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 14:59:43 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 15:05:22 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 15:05:22 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 15:05:22 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 15:05:22 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 19:43:23 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:23 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 19:43:23 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:23 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 19:43:26 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:26 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 19:43:26 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:26 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 19:43:46 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:46 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 19:43:46 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 19:43:46 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[23-Mar-2017 21:08:13 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 21:08:13 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-Mar-2017 21:08:13 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Mar-2017 21:08:13 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 05:41:31 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 05:41:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 05:41:31 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 05:41:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 06:09:03 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:09:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 06:09:03 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:09:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 06:38:03 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:38:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 06:38:03 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:38:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 06:55:22 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:55:22 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 06:55:22 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 06:55:22 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 07:39:31 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 07:39:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 07:39:31 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 07:39:31 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 08:17:59 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 08:17:59 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 08:17:59 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 08:17:59 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0
+[24-Mar-2017 08:56:02 America/Denver] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 08:56:02 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[24-Mar-2017 08:56:02 America/Denver] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Mar-2017 08:56:02 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_pgsql.so' - /usr/php/56/usr/lib64/php/modules/pdo_pgsql.so: undefined symbol: pdo_handle_error in Unknown on line 0

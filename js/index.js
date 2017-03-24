@@ -73,10 +73,6 @@ function showVideo() {
 	return true;
 }
 
-// --- Opens the Model window and shows the Jim Salutes Easter egg.
-function showSalute(){
-	$('#jimSalutes').model('show')
-}
 
 function submitGuest() {
 	var guestName = document.getElementById("guestName").value;
